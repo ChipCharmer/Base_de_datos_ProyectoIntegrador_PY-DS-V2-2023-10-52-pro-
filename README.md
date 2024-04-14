@@ -6,3 +6,6 @@ Esta carpeta contiene un diagrama ER para una cadena de tiendas y su schema, Ent
 
 - `diagramaER.pdf`: un diagrama ER para una cadena de tiendas
 - `diagramaER_fuente.txt`: schema del diagrama ER
+
+### db.sqlite
+Base de datos para una cadena de tiendas
