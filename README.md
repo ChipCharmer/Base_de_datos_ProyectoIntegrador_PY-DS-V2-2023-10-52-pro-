@@ -20,8 +20,8 @@ Luego realiza las siguientes consulta:
     3. Obtener el total de ventas por cliente.  
     
 #### consulta_1
--`solucion_1.sql`: los queries realizados 
--`result_1.csv`: con las respuestas 
+-`solucion_1.sql`: los queries realizados  
+-`result_1.csv`: con las respuestas   
 #### consulta_2	
 -`solucion_2.sql`  
 -`result_2.csv`  
