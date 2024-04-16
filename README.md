@@ -23,8 +23,8 @@ Luego realiza las siguientes consulta:
 -`solucion_1.sql`: los queries realizados 
 -`result_1.csv`: con las respuestas 
 #### consulta_2	
--`solucion_2.sql`
--`result_2.csv`
+-`solucion_2.sql`  
+-`result_2.csv`  
 #### consulta_3
--`solucion_3.sql`
--`result_3.csv`
+-`solucion_3.sql`  
+-`result_3.csv`  
