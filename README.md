@@ -12,3 +12,19 @@ Base de datos para una cadena de tiendas (sqlite)
 
 ### postgres.sql
 Las consultas para crear las tablas que ya cree en sqlite (*_db.sqlite_*), pero esta vez en PostgreSQL.
+
+### parte4_consultas_analiticas
+Luego realiza las siguientes consulta:
+    1. Obtener el precio mínimo, precio máximo y precio promedio de todos los productos.
+    2. Calcular la cantidad total de productos en stock por sucursal.
+    3. Obtener el total de ventas por cliente.
+    
+#### consulta_1
+-`solucion_1.sql`: los queries realizados 
+`'result_1.csv`: con las respuestas 
+#### consulta_2	
+-`solucion_1.sql`
+`'result_1.csv`
+#### consulta_3
+-`solucion_1.sql`
+`'result_1.csv`
