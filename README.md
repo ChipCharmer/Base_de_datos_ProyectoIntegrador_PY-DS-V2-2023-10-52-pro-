@@ -8,4 +8,7 @@ Esta carpeta contiene un diagrama ER para una cadena de tiendas y su schema, Ent
 - `diagramaER_fuente.txt`: schema del diagrama ER
 
 ### db.sqlite
-Base de datos para una cadena de tiendas
+Base de datos para una cadena de tiendas (sqlite)
+
+### postgres.sql
+Las consultas para crear las tablas que ya cree en sqlite (*_db.sqlite_*), pero esta vez en PostgreSQL.
