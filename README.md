@@ -15,8 +15,11 @@ Las consultas para crear las tablas que ya cree en sqlite (*_db.sqlite_*), pero 
 
 ### parte4_consultas_analiticas
 Luego realiza las siguientes consulta:
+
     1. Obtener el precio mínimo, precio máximo y precio promedio de todos los productos.
+    
     2. Calcular la cantidad total de productos en stock por sucursal.
+    
     3. Obtener el total de ventas por cliente.
     
 #### consulta_1
